@@ -4,14 +4,6 @@ CS graduate passionate about civic tech.
 
 Currently seeking software engineering roles.
 
-## Tech stack
-
-Most comfortable with Python and JavaScript/TypeScript. Familiar with Java, C/C++, and C#
-
-Framework-wise, most comfortable with React, Express, and FastAPI
-
-Host most backends on a self-managed Hetzner VPS
-
 ## Featured project
 
 **🌇 California Tenant Rights RAG** - Helps California renters understand their legal rights through natural language queries. Built with React frontend + FastAPI (Python) backend using a RAG pipeline over California tenant law documents. Serves raw text and an AI-summary.
