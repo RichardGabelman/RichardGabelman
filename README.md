@@ -1,4 +1,4 @@
-# Hi, I'm Richard 'Chaz' Gabelman👋
+## Hi, I'm Richard 'Chaz' Gabelman👋
 
 CS graduate passionate about civic tech. Currently seeking software engineering roles.
 
