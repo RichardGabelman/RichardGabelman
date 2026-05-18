@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Richard 'Chaz' Gabelman👋
 
-<!--
-**RichardGabelman/RichardGabelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate passionate about civic tech.
 
-Here are some ideas to get you started:
+Currently seeking software engineering roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+
+Most comfortable with Python and JavaScript/TypeScript. Familiar with Java, C/C++, and C#
+
+Framework-wise, most comfortable with React, Express, and FastAPI
+
+Host most backends on a self-managed Hetzner VPS
+
+## 🚀 Featured project
+
+**California Tenant Rights RAG** - Helps California renters understand their legal rights through natural language queries. Built with React frontend + FastAPI (Python) backend using a RAG pipeline over California tenant law documents. Serves raw text and an AI-summary.
+  ([repo](https://github.com/RichardGabelman/ca-tenant-law-rag) | [live](https://calitenantrights.richardgabelman.com))
+
+## 🎓 Education
+
+**B.S. Computer Science** - San Diego State University, 2025
+
+**[The Odin Project](https://www.theodinproject.com)** - 2026 : full-stack web development curriculum (HTML/CSS, JS, Node, React)
+
+## 📌 Currently
+
+- Building: real-time, socket-based collaborative whiteboard
+- Learning: Docker, agentic AI-flows
+- Open to fullstack / backend / frontend roles
+
+## 📬 Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/richard-gabelman/) · [Portfolio](https://www.richardgabelman.com) · hello@richardgabelman.com
