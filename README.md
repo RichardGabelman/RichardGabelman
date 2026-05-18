@@ -23,7 +23,7 @@ Host most backends on a self-managed Hetzner VPS
 
 **[The Odin Project](https://www.theodinproject.com)** - 2026 : full-stack web development curriculum (HTML/CSS, JS, Node, React)
 
-**TIP102 - 2026 : Codepath Technical Interview Prep Course
+**TIP102** - 2026 : Codepath Technical Interview Prep Course
 
 ## Currently
 
