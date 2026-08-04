@@ -17,7 +17,7 @@ CS graduate passionate about civic tech. Currently seeking tech roles.
 
 ## Currently
 
-- Building: real-time, socket-based collaborative whiteboard
-- Learning: Docker, agentic AI-flows
+- Building: open-source contributions
+- Learning: agentic AI-flows, GitHub Actions
 - Open to fullstack / backend / frontend roles
 
