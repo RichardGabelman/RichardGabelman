@@ -14,6 +14,7 @@ CS graduate passionate about civic tech. Currently seeking tech roles.
 **[The Odin Project](https://www.theodinproject.com)** - 2026 : full-stack web development curriculum (HTML/CSS, JS, Node, React)
 
 **TIP102** - 2025: Codepath Technical Interview Prep Course
+
 **AI301** - 2026: Codepath AI Open Source Capstone
 
 ## Currently
