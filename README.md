@@ -19,7 +19,7 @@ CS graduate passionate about civic tech. Currently seeking tech roles.
 
 ## Currently
 
-- Building: open-source contributions
-- Learning: agentic AI-flows, GitHub Actions
+- Building: open-source contributions, unnamed civic tech project
+- Learning: agentic AI flows, CI/CD
 - Open to fullstack / backend / frontend roles
 
