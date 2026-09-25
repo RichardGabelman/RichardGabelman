@@ -1,10 +1,10 @@
 ## Hi, I'm Richard 'Chaz' Gabelman👋
 
-CS graduate passionate about civic tech. Currently seeking tech roles.
+CS graduate passionate about civic/legal tech. Currently seeking tech roles.
 
 ## Featured project
 
-**🌇 California Tenant Rights RAG** - Helps California renters understand their legal rights through natural language queries. Built with React frontend + FastAPI (Python) backend using a RAG pipeline over California tenant law documents. Serves raw text and an AI-summary.
+**🌇 California Tenant Rights RAG** - Helps California renters understand their legal rights through natural language queries. Built with React frontend + FastAPI (Python) backend using a RAG pipeline over California tenant law documents.
   ([repo](https://github.com/RichardGabelman/ca-tenant-law-rag) | [live](https://calitenantrights.richardgabelman.com))
 
 ## Education
