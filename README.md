@@ -16,6 +16,7 @@ CS graduate passionate about civic/legal tech. Currently seeking tech roles.
 **TIP102** - Fall 2025: Codepath Technical Interview Prep Course
 
 **AI301** - Summer 2026: Codepath AI Open Source Capstone
+
 **AI301** - Fall 2026: Codepath AI Open Source Capstone
 
 ## Currently
